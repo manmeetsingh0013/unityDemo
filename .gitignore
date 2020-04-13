@@ -10,8 +10,6 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 
-# Asset meta data should only be ignored when the corresponding asset is also ignored
-!/[Aa]ssets/**/*.meta
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /[Aa]ssets/AssetStoreTools*
@@ -69,3 +67,5 @@ unityDemo/Library/metadata/7e/7e477014bad34ee42987a98d2a4dfc0f
 unityDemo/Library/metadata/9e/9e0061d1b4567e44b99595a294295182
 unityDemo/Temp/UnityTempFile-a3b4244a6dcccff4c90f65b38119f833
 unityDemo/Temp/UnityTempFile-b8fab06a38902404d8b95ce49562de2b
+*.bin
+unityDemo/
